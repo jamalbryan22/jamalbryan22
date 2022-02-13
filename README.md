@@ -4,6 +4,14 @@
 
 ### Hi there 👋
 
+---
+
+### 👨‍💻 About Me :
+ - I'm a computer science student at the Univeristy of Central Florida
+ - I study both front and backend development technologies; However I am particulary interested in backend developemnt.
+ - I am currently looking for an entry level software development position that will allow me to grow and develop my skills as a software engineer.
+ - My other interest are the outdoors, working out, video games, and cars. 
+
 
 
 <!--
