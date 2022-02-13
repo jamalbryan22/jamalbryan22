@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+  <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="100">
+</div>
+
+
 <!--
 **jamalbryan22/jamalbryan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
